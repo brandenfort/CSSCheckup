@@ -1,0 +1,54 @@
+.red-text {
+    color: red;
+}
+
+#number-fifty {
+    color: orangered;
+}
+
+#number-fifty {
+    font-size: 50px;
+}
+
+.title {
+    text-align: center;
+}
+
+.container {
+    border: 25px gray;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    padding: 50px 50px 75px 100px;
+}
+
+p {
+    height: 100px;
+    background-color: steelblue;
+    color: whitesmoke;
+    border: 5px lightgrey;
+}
+
+#margin-1, #margin-2 {
+    margin: 0;
+}
+
+.margin-3 {
+    margin:10px 10px 20px 0;
+    padding: 10px;
+}
+
+.padded-container {
+    border: 5px steelblue;
+}
+
+#padding-1 {
+    border: 5px burlywood;
+    margin: 50px;
+    padding: 25px;
+}
+
+#padding-2 {
+
+}
